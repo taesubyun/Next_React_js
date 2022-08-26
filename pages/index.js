@@ -3,7 +3,7 @@ import styles from '../styles/Home.module.css';
 export default function Home() {
   return (
     <div className={styles.container}>
-      <h1>Clear Set-up </h1>
+      <h1>Clear</h1>
     </div>
   );
 }
